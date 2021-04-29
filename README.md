@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blazej
 - 👀 I’m interested in Cybersec and Soft dev.
-- 🌱 I’m currently learning Java, Python, C, C++
-- 💞️ I’m looking to collaborate on Cybersec projects
+- 🌱 I’m currently learning Java, Python, C, C++, SQL
+
 
 <!---
 blazejmakul/blazejmakul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
